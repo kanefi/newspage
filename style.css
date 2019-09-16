@@ -1,0 +1,17 @@
+.container {
+    width: 80%;
+    margin: 5vh;
+    display: flex;
+    flex-direction: row;
+}
+
+header {
+    font-family: sans-serif;
+    font-size: 7vh;
+}
+
+.card{
+    display: flex;
+    flex-direction: row;
+}
+
